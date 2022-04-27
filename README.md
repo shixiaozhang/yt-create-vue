@@ -1,0 +1,3 @@
+ZX 用JavaScript写bash脚本
+prompts 用户友好的交互式提示
+husky是一个npm包，安装后，可以很方便的在package.json配置git hook 脚本
